@@ -159,10 +159,12 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="css\main.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
+    <Content Include="images\kisspng-line-angle-point-white-number-sprite-arrow-5b3ee609023382.432326251530848777009.jpg" />
     <Content Include="index.html" />
     <Content Include="QuestionController.js" />
     <Content Include="Scripts\angular-animate.js" />
